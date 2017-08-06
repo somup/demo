@@ -1,0 +1,31 @@
+esp-dev:
+    endPoint: http://test-service-dev.u1.app.cloud.comcast.net
+    msgPrefix: yo Xsp
+
+esp-qa:
+  endPoint: http://test-service-qa.u1.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-int:
+  endPoint: http://test-service-int.u1.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-stg-g1:
+  endPoint: http://test-service-stg.g1.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-stg-g2:
+  endPoint: http://test-service-stg.g2.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-prd-g1:
+  endPoint: http://test-service-prd.g1.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-prd-g2:
+  endPoint: http://test-service-prd.g2.app.cloud.comcast.net
+  msgPrefix: yo Xsp
+
+esp-prd-g3:
+  endPoint: http://test-service-prd.g3.app.cloud.comcast.net
+  msgPrefix: yo Xsp

@@ -1,0 +1,7 @@
+memory: 3072M
+timeout: 180
+host: test-service-dev
+instances: 1
+env:
+  ITRC_APP_ID: 
+

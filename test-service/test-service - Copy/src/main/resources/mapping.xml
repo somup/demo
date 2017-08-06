@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<mappings xmlns="http://dozer.sourceforge.net"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://dozer.sourceforge.net 
+      http://dozer.sourceforge.net/schema/beanmapping.xsd">
+      
+      
+      
+      <mapping map-empty-string="true">
+  <class-a>com.comcast.test.domains.Test1</class-a>
+  <class-b>com.comcast.test.domains.Test2</class-b>    
+  <field>
+    <a>name1</a>
+    <b>name2</b>
+  </field>
+    <field>
+    <a>age1</a>
+    <b>age2</b>
+  </field>
+      <field>
+    <a>salary</a>
+    <b>salary2</b>
+  </field>
+</mapping>
+      
+   
+</mappings>

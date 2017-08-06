@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="com.comcast.test.config.TestServiceApplicationTest" tests="1" skipped="0" failures="0" errors="0" timestamp="2017-08-04T15:12:20" hostname="patapl-J3R6SF2" time="0.024">
+  <properties/>
+  <testcase name="shouldExtendXspApplication" classname="com.comcast.test.config.TestServiceApplicationTest" time="0.024"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[]]></system-err>
+</testsuite>
